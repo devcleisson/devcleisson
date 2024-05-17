@@ -6,9 +6,9 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Cleisson! Um apaixonado estudante de sistemas de informação do Brasil.
+  Hi 👋, I'm Cleisson! Um apaixonado estudante de sistemas de informação.
 
-  - 🔭 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar com IA e Machine Learning.
+  - 🔭 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar como desenvolvedor.
 </p>
 
 <!-- Dropdown -->
