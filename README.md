@@ -15,7 +15,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 Tenho 22 anos e atualmente moro no Brasil. Tenho experiência com SQL, Python, JavaScript, Html5, Css3, ReactJs, Nodejs e atualmente estudando C#.
+  - 💬 Tenho 22 anos e atualmente moro no Brasil. Tenho experiência com SQL, Python, JavaScript, TypeScript, Html5, Css3, ReactJs, Nodejs e atualmente estudando C#.
 
   - ⚡Gosto de ler, seja um bom livro, além de assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas. 
 </details>
